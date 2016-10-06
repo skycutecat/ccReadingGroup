@@ -15,5 +15,6 @@
   1. React (參考 github source, 讀書會時傾向討論以及code review)
   2. DB Connection , other etc...
   3. SVC 畫圖 帶大家入門（未來可以請女神幫忙Ｑ_Ｑ）
+  
 ##分工討論
 待討論..
